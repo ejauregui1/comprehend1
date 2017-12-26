@@ -13,5 +13,5 @@ The 'Buba-licious' project was born during the 2017 (mt) Media Temple Winter Hac
 →  Kibana
 
 
-#### What is happening in jumble of code:
+#### What was the goal of this idea?
 Since this was a part of a 3 day project I committed to using Twitter as my main source. The idea is that we can build better data using other forms of social media that allow for rest api access and/or access to data. (ie: linkedIn, Google Alerts, Facebook, etc. )
