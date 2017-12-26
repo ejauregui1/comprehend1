@@ -1,0 +1,7 @@
+# Ignore Files #
+################
+settings.py
+
+# Ignore Directories #
+######################
+/__pycache__
