@@ -19,7 +19,7 @@ Since this was a part of a 3 day project I committed to using Twitter as my main
 
 ### API information
 
-## LinkedIn API
+#### LinkedIn API
 Python Notes
 - Install linked in python package
 - `pip install python-linkedin`
