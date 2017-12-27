@@ -6,6 +6,8 @@ RETURN_URL = 'http://localhost:8000'
 authentication = linkedin.LinkedInAuthentication(CLIENT_ID, CLIENT_SECRET, RETURN_URL, linkedin.PERMISSIONS.enums.values())
 
 # Open this url in the browser
-
-print (authentication.authorization_url)
+try:
+    print (authentication.authorization_url)
+except:
+    pass
 application = linkedin.LinkedInApplication(authentication)
